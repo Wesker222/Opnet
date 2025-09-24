@@ -18,12 +18,12 @@ This tool helps automate these repetitive steps to accelerate testing and develo
 
 ## Getting Started
 
-### Prerequisites
+### Prerequisites.
 
 - Python 3.8+
 - Pyppeteer (`pip install pyppeteer`)
 
-### Installation
+### Installation.
 
 Clone the repository:
 
